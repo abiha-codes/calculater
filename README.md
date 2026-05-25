@@ -14,7 +14,7 @@ A sleek and modern calculator web application built using HTML, CSS, and JavaScr
 - Basic arithmetic operations (+, -, *, /)
 - Clean and minimal interface
 
-## Screenshots
+## Screenshot
 
 ![Modern Calculator](image.png)
 
