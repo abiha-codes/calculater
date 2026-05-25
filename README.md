@@ -16,8 +16,6 @@ A sleek and modern calculator web application built using HTML, CSS, and JavaScr
 
 ## Screenshots
 
-## Screenshots
-
 ![Modern Calculator](image.png)
 
 ## Tech Stack
